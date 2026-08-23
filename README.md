@@ -40,11 +40,16 @@ El usuario ideal es una persona colombiana que sea arrendador o arrendatario de 
 
 ### 1.4 Marco jurídico y fuentes
 ¿Qué normas alimentan tu herramienta? Lista tu corpus normativo (leyes, decretos, sentencias — debe ser **pequeño y público**):
-- [ ] Norma/sentencia 1: [nombre + enlace]
-- [ ] Norma/sentencia 2: [nombre + enlace]
+- [ ] Norma/sentencia 1: [Ley 820 de 2003 
+https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8738]
+- [ ] Norma/sentencia 2: [Sentencia C-426/23
+https://www.corteconstitucional.gov.co/relatoria/2023/c-426-23.htm]
 
 ### 1.5 Nombre y lema
 Un nombre corto para tu herramienta y una frase que explique qué hace (la usarás en la demo del día de presentaciones).
+
+Nombre: ArrendaIA
+Lema: Tu asistente inteligente para el arrendamiento de vivienda.
 
 ---
 
