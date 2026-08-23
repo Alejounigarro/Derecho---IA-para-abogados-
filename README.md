@@ -2,8 +2,8 @@
 
 **Pontificia Universidad Javeriana · 2026-II · Docente: Pedro Ardila**
 
-> **Estudiante:** [escribe aquí tu nombre completo]
-> **Nombre del proyecto:** [escribe aquí el nombre de tu herramienta]
+> **Estudiante:** Jose Alejandro Unigarro Chamorro
+> **Nombre del proyecto:** Asistente de arrendamiento: Incrementos permitidos, causales de terminación y preavisos según la Ley 820 de 2003; genera cartas de preavisos o reclamación.
 > **Fecha de inicio:** [AAAA-MM-DD]
 
 ---
@@ -23,14 +23,18 @@ Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando
 ### 1.1 El problema jurídico
 ¿Qué problema **real del derecho colombiano** resuelve tu herramienta? ¿Quién lo sufre hoy y cómo lo resuelve sin tu herramienta?
 
+En Colombia, arrendadores y arrendatarios de vivienda urbana pueden tener dificultades para determinar si un incremento del canon, una terminación del contrato o un preaviso cumplen con los requisitos establecidos en la Ley 820 de 2003. Esto puede generar conflictos, especialmente cuando una de las partes desconoce los límites legales, los plazos de preaviso, las causales de terminación o las indemnizaciones que pueden corresponder. Actualmente, una persona sin conocimientos jurídicos debe consultar directamente la legislación, buscar información en internet o acudir a un abogado para verificar su situación. La herramienta busca facilitar una primera orientación jurídica mediante inteligencia artificial, analizando los datos proporcionados por el usuario y contrastándolos con la normativa colombiana aplicable. En particular, podrá ayudar a verificar los incrementos del canon y las condiciones relacionadas con la terminación de los contratos de arrendamiento de vivienda urbana. La herramienta no pretende reemplazar la asesoría profesional, sino facilitar el acceso y comprensión de las reglas jurídicas aplicables.
+
 ### 1.2 Usuarios
 ¿Quién va a usarla? Describe a tu usuario ideal en una frase (ej. *"un arrendatario bogotano que le subieron el canon de arrendamiento más del límite legal"*). Recuerda que al final necesitas **al menos un usuario real** que la pruebe.
+
+El usuario ideal es una persona colombiana que sea arrendador o arrendatario de una vivienda urbana y necesite verificar si una situación relacionada con su contrato se ajusta a la Ley 820 de 2003. La herramienta estará dirigida tanto a personas que tengan dudas sobre el incremento del canon como a quienes necesiten conocer las condiciones para terminar el contrato. También podrá ser utilizada por personas que necesiten elaborar una comunicación relacionada con un preaviso, una terminación o una reclamación. El usuario podrá proporcionar información como el valor del canon, la fecha de celebración del contrato, la fecha del último incremento, el plazo contractual y la situación que está generando el conflicto. La herramienta analizará esta información y presentará una orientación fundamentada en las normas que correspondan.
 
 ### 1.3 Qué hace y qué NO hace (alcance)
 | ✅ Sí hace | ❌ No hace |
 | --- | --- |
-| [funcionalidad 1] | [fuera de alcance 1] |
-| [funcionalidad 2] | [fuera de alcance 2] |
+| [Analiza situaciones concretas de arrendamiento de vivienda urbana en Colombia, como incrementos del canon, causales de terminación y requisitos de previos, utilizando principalmente la Ley 820 de 2003 y citando la normativa aplicable.] | [No reemplaza la asesoría ni la representación de un abogado. No inicia procesos judiciales o administrativos, ni actúa en nombre del usuario ante autoridades o terceros.] |
+| [Genera documentos de apoyo, como cartas de previos, terminación o reclamación, y puede realizar cálculos relacionados con el incremento permitido del canon cuando los datos proporcionados sean suficientes.] | [No analiza arrendamientos comerciales ni legislación de otros países, y tampoco emite decisiones jurídicas definitivas, sus respuestas constituyen una orientación basada en la información proporcionada por el usuario.] |
 
 *Consejo de abogado: un alcance pequeño y perfecto vale más que uno grande y roto.*
 
